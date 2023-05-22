@@ -77,3 +77,11 @@ s.send("acknowledgement recived from the server".encode())
 OUTPUT:
 
 CLIENT:
+![Screenshot from 2023-05-12 20-53-20](https://github.com/Harsayazheni/Sliding-Window-Protocol/assets/118708467/356d4080-f672-4597-a550-f9ce8866b931)
+
+SERVER:
+![Screenshot from 2023-05-12 20-53-29](https://github.com/Harsayazheni/Sliding-Window-Protocol/assets/118708467/7734005b-5c45-41f3-88c3-cac48a2d95dd)
+
+RESULT:
+
+Thus, python program to perform stop and wait protocol was successfully executed.
